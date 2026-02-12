@@ -1,0 +1,7 @@
+[project]
+name = "snes-gpt"
+version = "0.1.0"
+description = "micro-gpt on the super nintendo"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

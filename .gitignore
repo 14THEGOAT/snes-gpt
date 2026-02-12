@@ -1,0 +1,13 @@
+# Build output
+build/
+
+# Python
+__pycache__/
+*.py[oc]
+.venv
+*.egg-info
+
+# IDE
+.mypy_cache/
+.claude/
+.mypy_cache/
